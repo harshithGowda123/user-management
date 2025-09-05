@@ -1,0 +1,1 @@
+export type User = any // using `any` to match randomuser.me shape; adapt if stricter typing needed
